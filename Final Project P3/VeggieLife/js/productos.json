@@ -1,0 +1,112 @@
+[
+    {
+        "id": "Hamburguesa-01",
+        "titulo": "Hamburguesa de calabaza",
+        "imagen": "/Final Project P3/VeggieLife/img/Hamburguesas/medallon-de-soja-y-calabaza.jpg",
+        "categoria": {
+            "nombre": "Hamburguesas",
+            "id": "hamburguesas"
+        },
+        "precio": 590
+    },
+    {
+        "id": "Hamburguesa-02",
+        "titulo": "Hamburguesa de soja",
+        "imagen": "/Final Project P3/VeggieLife/img/Hamburguesas/medallon-de-soja-y-choclo.jpg",
+        "categoria": {
+            "nombre": "Hamburguesas",
+            "id": "hamburguesas"
+        },
+        "precio": 590
+    },
+    {
+        "id": "Hamburguesa-03",
+        "titulo": "Hamburguesa de quinoa",
+        "imagen": "/Final Project P3/VeggieLife/img/Hamburguesas/medallon-de-soja-y-quinoa.jpg",
+        "categoria": {
+            "nombre": "Hamburguesas",
+            "id": "hamburguesas"
+        },
+        "precio": 590
+    },
+    {
+        "id": "Hamburguesa-04",
+        "titulo": "Hamburguesa de cereales",
+        "imagen": "/Final Project P3/VeggieLife/img/Hamburguesas/medallon-mix-de-cereales.jpg",
+        "categoria": {
+            "nombre": "Hamburguesas",
+            "id": "hamburguesas"
+        },
+        "precio": 590
+    },
+    {
+        "id": "Hamburguesa-05",
+        "titulo": "Hamburguesa de espinaca",
+        "imagen": "/Final Project P3/VeggieLife/img/Hamburguesas/medallon-soja-y-espinaca.jpg",
+        "categoria": {
+            "nombre": "Hamburguesas",
+            "id": "hamburguesas"
+        },
+        "precio": 590
+    },
+    {
+        "id": "Jamon-01",
+        "titulo": "Jamon ahumado",
+        "imagen": "/Final Project P3/VeggieLife/img/Jamones/jamon-ahumado-vegano.jpg",
+        "categoria": {
+            "nombre": "Jamones",
+            "id": "jamones"
+        },
+        "precio": 350
+    },
+    {
+        "id": "Jamon-02",
+        "titulo": "Panceta vegana",
+        "imagen": "/Final Project P3/VeggieLife/img/Jamones/panceta-vegana-feteada-5-fetas.jpg",
+        "categoria": {
+            "nombre": "Jamones",
+            "id": "jamones"
+        },
+        "precio": 350
+    },
+    {
+        "id": "Salchicha-01",
+        "titulo": "Chorizo colorado",
+        "imagen": "/Final Project P3/VeggieLife/img/Salchichas/chorizo-colorado.jpg",
+        "categoria": {
+            "nombre": "Salchichas",
+            "id": "salchichas"
+        },
+        "precio": 490
+    },
+    {
+        "id": "Salchicha-03",
+        "titulo": "Chorizo vegano",
+        "imagen": "/Final Project P3/VeggieLife/img/Salchichas/chorizo-vegano.jpg",
+        "categoria": {
+            "nombre": "Salchichas",
+            "id": "salchichas"
+        },
+        "precio": 490
+    },
+    {
+        "id": "Salchicha-04",
+        "titulo": "Salchicha alemana",
+        "imagen": "/Final Project P3/VeggieLife/img/Salchichas/salchicha-alemana.jpg",
+        "categoria": {
+            "nombre": "Salchichas",
+            "id": "salchichas"
+        },
+        "precio": 490
+    },
+    {
+        "id": "Salchicha-05",
+        "titulo": "Salchicha de viena",
+        "imagen": "/Final Project P3/VeggieLife/img/Salchichas/salchicha-de-viena-vegana.jpg",
+        "categoria": {
+            "nombre": "Salchichas",
+            "id": "salchichas"
+        },
+        "precio": 490
+    }
+]   
